@@ -1,1 +1,2 @@
-confusion file of hello
+#!/bin/bash
+cat /etc/passwd
