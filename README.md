@@ -1,1 +1,1 @@
-i mad working now 
+my first shell redire
